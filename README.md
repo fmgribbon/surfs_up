@@ -16,10 +16,10 @@
 - The temperature data for Oahu in December:
 	- Average temperature: 71°F
 	- Temperature Range: 56°F – 83°F 
-	- Difference between ave. and lowest temperature : 15°
-	– Difference between ave. and highest temperature: 12°  
+	- Difference between ave. and lowest temperature : 15°    
+    - Difference between ave. and highest temperature: 12°  
 
- Differences from June to December:
+#####Temperature Differences from June to December:
 - Average temperature: 4°F drop
 - Difference between the average and lowest temperature: December  higher than June
 - The difference in average temperature and highest: December slightly higher than June
