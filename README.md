@@ -9,15 +9,15 @@
 - The temperature data for Oahu in June:
     - Average temperature: 75°F 
     - Temperature Range: 64°F - 85°F 
-    - Difference between average and lowest temperature : 11°
-    - Difference between average and highest temperature: 10°  
+    - Difference between average and lowest temperature : 11°F
+    - Difference between average and highest temperature: 10°F  
 
 ##### [Statistical Data for Oahu Temperature in ***December***](https://github.com/fmgribbon/surfs_up/blob/main/Resources/DecStats.PNG)
 - The temperature data for Oahu in December:
 	- Average temperature: 71°F
 	- Temperature Range: 56°F – 83°F 
-	- Difference between ave. and lowest temperature : 15°    
-    - Difference between ave. and highest temperature: 12°  
+	- Difference between ave. and lowest temperature : 15°F    
+    - Difference between ave. and highest temperature: 12°F  
 
 ##### Temperature Differences from June to December:
 - Average temperature: 4°F drop
